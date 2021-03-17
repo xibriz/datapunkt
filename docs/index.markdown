@@ -5,6 +5,4 @@
 tiltle: Hjem
 ---
 
-# Datapunkt.no
-
 ![alt text](https://www.solland.no/wp-content/uploads/elko61180.jpg "RJ45 datapunkt")
