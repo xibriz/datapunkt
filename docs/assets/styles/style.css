@@ -14,6 +14,10 @@
     right: 30px;
 }
 
+.img-fluid {
+    max-width: 70%;
+}
+
 .top-container {
     background-image: url('/assets/images/background.jpg');
     margin-top: var(--navbar-height);
