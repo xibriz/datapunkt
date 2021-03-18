@@ -1,0 +1,41 @@
+:root {
+    --navbar-height: 110px;
+    --top-container-height: 400px;
+    --background-color-navbar: darkorange;
+}
+
+.navbar {
+    min-height: var(--navbar-height);
+    background-color: var(--background-color-navbar) !important;
+}
+
+.navbar-toggler {
+    position: absolute;
+    right: 30px;
+}
+
+.top-container {
+    background-image: url('/assets/images/background.jpg');
+    margin-top: var(--navbar-height);
+    min-height: var(--top-container-height);
+}
+
+.top-container .d-flex {
+    min-height: var(--top-container-height);
+}
+
+.d-flex:not(.navbar-toggler) {
+    height: 100%;
+}
+
+.odd-container {
+    background-color: brown;
+}
+
+.even-container {
+    background-color: coral;
+}
+
+.bottom-container {
+    background-color: var(--background-color-navbar);
+}
