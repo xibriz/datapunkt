@@ -1,11 +1,12 @@
 :root {
     --navbar-height: 110px;
     --top-container-height: 400px;
-    --background-color-navbar: rgba(212, 136, 21, 0.904);
-    --background-color-odd: rgba(129, 83, 15, 0.904);
+    --background-color-navbar: #092042;
+    --background-color-odd: rgba(0, 48, 96, 0.8);
     --text-color-odd: white;
-    --background-color-even: rgba(255, 168, 38, 0.904);
-    --text-color-even: rgb(34, 32, 32);
+    --background-color-even: rgba(248, 187, 0, 0.8);
+    --text-color-even: rgba(34, 32, 32, 0.829);
+    --text-color-heading: rgba(250, 219, 94, 1);
 }
 
 .navbar {
@@ -22,12 +23,17 @@
     max-width: 70%;
 }
 
+.top-heading, #navbarToggleExternalContent li {
+    color: var(--text-color-heading);
+}
+
 .top-container {
     background-image: url('/assets/images/background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     margin-top: var(--navbar-height);
     min-height: var(--top-container-height);
+    background-color: var(--background-color-navbar) !important;
 }
 
 .top-container .d-flex {
@@ -36,6 +42,11 @@
 
 .d-flex:not(.navbar-toggler) {
     height: 100%;
+}
+
+.navbar-toggler, .fa-bars {
+    border-color: var(--text-color-heading) !important;
+    color: var(--text-color-heading) !important;
 }
 
 .odd-container {
@@ -49,5 +60,6 @@
 }
 
 .bottom-container {
+    color: var(--text-color-heading);
     background-color: var(--background-color-navbar);
 }
