@@ -1,12 +1,23 @@
 :root {
     --navbar-height: 110px;
     --top-container-height: 400px;
-    --background-color-navbar: #F5ECE1;
-    --background-color-odd: #AB9B85;
-    --text-color-odd: black;
+    --clearfix-height: 510px;
+
+    --background-color-navbar: white;
+    --background-color-odd: #EB9628;
+    --text-color-odd: white;
     --background-color-even: #F5ECE1;
     --text-color-even: black;
     --text-color-heading: #EB9628;
+}
+
+body {
+    font-family: 'Lato', sans-serif !important;;
+}
+
+.btn-primary {
+    background-color: #00669E;
+    border-color: #00669E;
 }
 
 .navbar {
@@ -23,6 +34,11 @@
     max-width: 70%;
 }
 
+.top-clearfix {
+    height: var(--clearfix-height);
+    padding-top: var(--navbar-height);
+}
+
 .top-heading, #navbarToggleExternalContent li {
     color: var(--text-color-heading);
 }
@@ -31,9 +47,11 @@
     background-image: url('/assets/images/background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
+    background-size: cover;
     margin-top: var(--navbar-height);
     min-height: var(--top-container-height);
-    background-color: var(--background-color-navbar) !important;
+    position: fixed;
+    z-index: -999999;
 }
 
 .top-container .d-flex {
