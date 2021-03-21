@@ -1,12 +1,12 @@
 :root {
     --navbar-height: 110px;
     --top-container-height: 400px;
-    --background-color-navbar: #092042;
-    --background-color-odd: rgba(0, 48, 96, 0.8);
-    --text-color-odd: white;
-    --background-color-even: rgba(248, 187, 0, 0.8);
-    --text-color-even: rgba(34, 32, 32, 0.829);
-    --text-color-heading: rgba(250, 219, 94, 1);
+    --background-color-navbar: #F5ECE1;
+    --background-color-odd: #AB9B85;
+    --text-color-odd: black;
+    --background-color-even: #F5ECE1;
+    --text-color-even: black;
+    --text-color-heading: #EB9628;
 }
 
 .navbar {
