@@ -44,6 +44,7 @@ body {
 .top-clearfix {
     height: var(--clearfix-height);
     padding-top: var(--navbar-height);
+    width: 97%;
 }
 
 .top-heading, #navbarToggleExternalContent li {
