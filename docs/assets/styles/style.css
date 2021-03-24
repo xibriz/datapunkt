@@ -15,11 +15,11 @@ body {
     font-family: 'Lato', sans-serif !important;;
 }
 
-h1 {
-    font-size: 5em;
+.top-heading {
+    /* font-size: 5em; */
     margin-top: 1em;
     margin-bottom: 1em;
-    font-weight: bold;
+    font-weight: bold !important;
   }
 
 .btn-primary {
