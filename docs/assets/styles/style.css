@@ -49,11 +49,6 @@ body {
     right: 30px;
 }
 
-.container-fluid {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-}
-
 .img-fluid {
     max-width: 70%;
 }
