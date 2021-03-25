@@ -27,6 +27,16 @@ body {
     border-color: #000000;
 }
 
+.btn-even {
+    background-color: #EB9628;
+    border-color: #EB9628;
+}
+
+.btn-odd {
+    background-color: #F5ECE1;
+    border-color: #F5ECE1;
+}
+
 .navbar {
     min-height: var(--navbar-height);
     background-color: var(--background-color-navbar) !important;
