@@ -33,11 +33,10 @@ body {
     border-color: #EB9628;
 }
 
-/* OBS! Her er det mulighens noe Ruben ikke liker */
 .btn-odd {
     background-color: #F5ECE1;
     border-color: #F5ECE1;
-    color: black;
+    color: #1c1400
 }
 
 .navbar {
