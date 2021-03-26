@@ -20,6 +20,7 @@ body {
     margin-top: 1em;
     margin-bottom: 1em;
     font-weight: bold !important;
+    font-family: 'Nova Round', cursive !important;
   }
 
 .btn-primary {
@@ -102,39 +103,25 @@ body {
     background-color: var(--background-color-navbar);
 }
 
-/* unvisited link */
+/* unvisited */
 a:link {
-    color: #00669E
+    color: #00669E;
+    text-decoration: none;
   }
   
-  /* visited link */
-  a:visited {
-    color: #28A5EB
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: #EB9628;
-  }
-  
-  /* selected link */
-  a:active {
-    color: hotpink
-  }
+a:visited {
+color: #28A5EB;
+text-decoration: none;
+}
 
-a:link {
-    text-decoration: none;
-  }
-  
-  a:visited {
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  a:active {
-    text-decoration: underline;
-  }
+a:hover {
+color: #EB9628;
+text-decoration: underline;
+}
+
+/* selected */
+a:active {
+color: hotpink;
+text-decoration: underline;
+}
 
