@@ -5,10 +5,10 @@
 
     --background-color-navbar: white;
     --background-color-odd: #EB9628;
-    --text-color-odd: white;
+    --text-color-odd: #F5ECE1;
     --background-color-even: #F5ECE1;
     --text-color-even: #1c1400
-    --text-color-heading: #1c1400
+    --text-color-heading: #EB9628;
 }
 
 body {
@@ -24,8 +24,8 @@ body {
   }
 
 .btn-primary {
-    background-color: #1c1400;
-    border-color: #1c1400;
+    background-color: #EB9628;
+    border-color: #EB9628;
 }
 .btn-primary:hover {
     background-color: #00669E;
@@ -95,7 +95,6 @@ body {
 
 .threeWiseDivs {
     max-width: 400px;
-    text-align: left;
 }
 
 .odd-container {
