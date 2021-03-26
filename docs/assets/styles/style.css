@@ -24,8 +24,14 @@ body {
   }
 
 .btn-primary {
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #1c1400;
+    border-color: #1c1400;
+}
+.btn-primary:hover {
+    background-color: #00669E;
+}
+.btn-primary:active {
+    background-color:hotpink;
 }
 
 .btn-even {
