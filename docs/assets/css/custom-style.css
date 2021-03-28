@@ -70,12 +70,13 @@ body {
 .btn-even {
     background-color: #EB9628;
     border-color: #EB9628;
+    color: white !important;
 }
 
 .btn-odd {
     background-color: #F5ECE1;
     border-color: #F5ECE1;
-    color: #1c1400
+    color: #1c1400 !important;
 }
 
 .navbar {
@@ -147,21 +148,20 @@ body {
 a:link {
     color: #00669E;
     text-decoration: none;
-  }
+}
   
 a:visited {
-color: #28A5EB;
-text-decoration: none;
+    color: #28A5EB;
+    text-decoration: none;
 }
 
 a:hover {
-color: #EB9628;
-text-decoration: underline;
+    color: #EB9628;
+    text-decoration: underline;
 }
 
 /* selected */
 a:active {
-color: hotpink;
-text-decoration: underline;
+    color: hotpink;
+    text-decoration: underline;
 }
-
