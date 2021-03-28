@@ -1,7 +1,7 @@
 :root {
     --navbar-height: 110px;
     --top-container-height: 600px;
-    --clearfix-height: 710px; 
+    --clearfix-height: 600px; 
 
     --background-color-navbar: white;
     --background-color-odd: #EB9628;
@@ -9,23 +9,56 @@
     --background-color-even: #F5ECE1;
     --text-color-even: #1c1400;
     --text-color-heading: #F5ECE1;
+    --text-color-menu: #1c1400;
 }
 
 body {
     font-family: 'Lato', sans-serif !important;;
 }
 
+/** Begin override template */
+
+.page-content {
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.post {
+    max-width: calc(800px - (30px));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/** End override template */
+
+#navbarToggleExternalContent {
+    background-color: var(--background-color-even);
+}
+
+.site-header {
+    min-height: var(--navbar-height);
+}
+
 .top-heading {
-    /* font-size: 5em; */
     margin-top: 1em;
     margin-bottom: 1em;
     font-weight: bold !important;
     font-family: 'Share Tech', sans-serif !important;
   }
 
-.btn-primary {
+.top-btn {
     background-color: #EB9628;
     border-color: #EB9628;
+    color: white !important;
 }
 .btn-primary:hover {
     background-color: #00669E;
@@ -61,11 +94,10 @@ body {
 
 .top-clearfix {
     height: var(--clearfix-height);
-    padding-top: var(--navbar-height);
     width: 97%;
 }
 
-.top-heading, #navbarToggleExternalContent li {
+.top-heading {
     color: var(--text-color-heading);
 }
 
@@ -74,7 +106,6 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: var(--navbar-height);
     min-height: var(--top-container-height);
     position: fixed;
     z-index: -999999;
@@ -88,9 +119,9 @@ body {
     height: 100%;
 }
 
-.navbar-toggler, .fa-bars {
-    border-color: var(--text-color-heading) !important;
-    color: var(--text-color-heading) !important;
+.navbar-toggler, .fa-bars, #navbarToggleExternalContent li {
+    border-color: var(--text-color-menu) !important;
+    color: var(--text-color-menu) !important;
 }
 
 .threeWiseDivs {
@@ -108,7 +139,7 @@ body {
 }
 
 .bottom-container {
-    color: var(--text-color-heading);
+    color: var(--text-color-menu);
     background-color: var(--background-color-navbar);
 }
 
