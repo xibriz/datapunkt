@@ -19,3 +19,9 @@ Over dammen kalles disse gjerne «head of data» eller «chief data officer», m
 Før Datapunkt begynner å samle data fra dine systemer og eksterne systemer, vil vi gjerne vite litt om målene til virksomheten og hvordan dere jobber for å nå dem. Poenget med å være datadrevet er jo først og fremst at dataene må gjøres om til innsikt som skal hjelpe deg med å nå målene. Dette gjør vi best i samarbeid med deg som kunde.
 
 I større bedrifter sørger den nevnte “head of data” for et eget strategidokument for hvordan datainnsikten skal bidra til å nå målene. Kanskje trenger du ikke enda et strategidokument som støver ned et sted i skyen, men det er likevel viktig å ha en oversikt over hvilke konkurransefortrinn dataene faktisk kan gi deg. Vi tilbyr en kartlegging av mulighetene som ligger i dataene dine, slik at du får et godt grunnlag for å avgjøre hva du vil at vi skal levere og hvordan du skal utforme strategien din.
+
+<h3>Hvor skal man starte?</h3>
+
+Har du ikke et enkelt datadashbord fra før, som visualiserer data et eller flere systemer i virksomheten din, kan det ofte være et godt sted å starte. Dashbordet kan utvides etterpå, og har nytteverdi uansett hvordan du velger utforme strategiene eller hvem du velger å ansette. I forbindelse med dashbordet begynner vi også med en kartlegging av datagrunnlaget, slik at du får et godt grunnlag for veien videre.
+
+<a href="/2021/03/28/et-dashbord-gir-deg-full-oversikt.html">Les mer om våre dashbord</a>
