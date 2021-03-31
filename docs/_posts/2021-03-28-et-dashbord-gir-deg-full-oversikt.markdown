@@ -1,5 +1,6 @@
 ---
 title: "Et dashbord gir deg full oversikt"
+tags: dashbord instrumentbord
 ---
 Et dashbord, eller instrumentbord, kan bli et av de viktigste verktøyene du har, bare det inneholder riktig informasjon. Her bør all den viktigste dataen i virksomheten være i en visualisert og interaktiv form, slik at dashbordet kan besvare alle vanlige spørsmål som dukker opp i virksomheten din.
 
