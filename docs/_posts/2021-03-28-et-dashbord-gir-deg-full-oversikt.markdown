@@ -11,4 +11,13 @@ Etter at de viktigste grunnleggende dataene er på plass, kan vi utvide dashbord
 
 Det finnes mange ulike leverandører av dashbordløsninger, der de mest kjente kanskje er Power BI og Tableau. Vi tilbyr et skreddersydd dashbord basert på åpen kildekode. Denne bygger vi inn i vår egen webapp. Vi setter opp datauttrekk fra dine systemer mot en database, og vi prosesserer og visualiserer dataene ved å programmere for hånd. Dette gir en langt mer fleksibel løsning. En ekstra fordel er at det ikke følger med en månedlig kostnad per bruker for å bruke løsningen, slik at alle ansatte kan meske seg med informasjonen direkte. 
 
-Vil du vite mer? Se eksempler på eksempeldashbord vi har laget, les mer om … ett eller annet … eller ta kontakt for å få avtale et møte.
+Vil du vite mer? Se eksempler på eksempeldashbord vi har laget, les mer om våre tekniske løsninger, eller ta kontakt for å få avtale en demo.
+
+Andre ting:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
