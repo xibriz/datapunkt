@@ -12,13 +12,15 @@ Etter at de viktigste grunnleggende dataene er på plass, kan vi utvide dashbord
 
 <h2>Full tilgang uten ekstrakostnader</h2>
 
-Det finnes mange ulike leverandører av dashbordløsninger, der de mest kjente kanskje er Power BI og Tableau. Vi tilbyr et skreddersydd dashbord basert på åpen kildekode. Denne bygger vi inn i vår egen webapp. Vi setter opp datauttrekk fra dine systemer mot en database, og vi prosesserer og visualiserer dataene ved å programmere for hånd. Dette gir en langt mer fleksibel løsning. En ekstra fordel er at det ikke følger med en månedlig kostnad per bruker for å bruke løsningen, slik at alle ansatte kan meske seg med informasjonen direkte.
+Det finnes mange ulike leverandører av dashbordløsninger, der de mest kjente kanskje er Power BI og Tableau. Vi tilbyr et skreddersydd dashbord basert på åpen kildekode. Denne bygger vi inn i vår egen webapp. Vi setter opp datauttrekk fra dine systemer mot en database, og vi prosesserer og visualiserer dataene ved å programmere for hånd. Dette gir en langt mer fleksibel løsning. 
+
+En ekstra fordel er at det ikke følger med en månedlig kostnad per bruker for å bruke løsningen. Dermed kan alle ansatte kan meske seg med informasjonen.
 
 <h2>Et perfekt sted å starte</h2>
 
-Vi, og mange andre, snakker om hvor viktig det er å være datadrevet. Men hvor i alle dager skal man starte? Vi mener dashbordet ofte er svaret!
+Vi, og mange andre, snakker om hvor viktig det er å være datadrevet. Men hvor i alle dager skal man starte? Et godt svar er ofte dashbordet.
 
-Når vi leverer et enkelt dashbord, kan det utvides i det uendelige. Hvis du starter med et dashbord som viser de viktigste dataene for deg, og gir alle i virksomheten tilgang, så har du et nyttig verktøy som hele virksomheten kan bruke daglig – uavhengig av strategidokumenter og alskensk maskinlæringsalgoritmer. Når dashbordet er på plass, har du kanskje et bedre grunnlag til å se hvor du vil gå videre på ferden mot å bli en såkalt <a href="/2021/03/28/bli-mer-datadrevet.html">datadrevet organisasjon eller bedrift</a>.
+Når vi leverer et dashbord for de grunnleggende dataene som er viktig for deg, kan det utvides i det uendelige i ettertid. Da har du et nyttig verktøy som hele virksomheten kan bruke daglig – uavhengig av strategidokumenter og alskensk maskinlæringsalgoritmer som du kan pønske mer på etterpå. Med dashbordet på plass og i bruk på tvers av virksomheten, får du trolig også et bedre grunnlag til å velge en retning på ferden mot å bli en såkalt <a href="/2021/03/28/bli-mer-datadrevet.html">datadrevet organisasjon eller bedrift</a>.
 
 Vil du vite mer? Se eksempler på eksempeldashbord vi har laget, les mer om våre tekniske løsninger, eller ta kontakt for å få avtale en demo.
 
