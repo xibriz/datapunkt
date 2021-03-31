@@ -14,7 +14,7 @@ Data alene er ikke løsningen, uansett hvor godt visualisert du får servert dat
 
 I større bedrifter innebærer dette å ha en egen person i selskapets ledergruppe som er ansvarlig for at kulturen i bedriften tilpasses en datadrevet tankegang. Denne personen kobler dataguruene sammen med lederne og de ansatte, og sørger både for at dataene svarer til behovene i virksomheten og at virksomheten utnytter dataene. 
 
-Over dammen kalles disse gjerne “head of data” eller “chief data officer”, mens vi i Norge som regel bruker diverse ufullstendige oversettelser som leder data & insight eller lignende. I mindre organisasjoner er en egen stilling til formålet kanskje litt voldsomt, men funksjonen er viktig å få på plass. 
+Over dammen kalles disse gjerne «head of data» eller «chief data officer», mens vi i Norge som regel bruker diverse ufullstendige oversettelser som «leder data & insight» eller lignende. I mindre organisasjoner er en egen stilling til formålet kanskje litt voldsomt, men funksjonen er viktig å få på plass. 
 
 Før Datapunkt begynner å samle data fra dine systemer og eksterne systemer, vil vi gjerne vite litt om målene til virksomheten og hvordan dere jobber for å nå dem. Poenget med å være datadrevet er jo først og fremst at dataene må gjøres om til innsikt som skal hjelpe deg med å nå målene. 
 
