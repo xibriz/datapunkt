@@ -13,7 +13,9 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif !important;;
+    font-family: 'Lato', sans-serif !important;
+    overflow-x: hidden;
+    background-color: var(--background-color-even);
 }
 
 /** Begin override template */
@@ -26,8 +28,7 @@ body {
     max-width: 100%;
     margin-right: 0;
     margin-left: 0;
-    padding-right: 0;
-    padding-left: 0;
+    padding: 3rem 0 0 0;
 }
 
 .post {
@@ -106,6 +107,7 @@ body {
     min-height: var(--top-container-height);
     position: fixed;
     z-index: -999999;
+    margin-top: -3rem;
 }
 
 .top-container .d-flex {
