@@ -1,7 +1,8 @@
 :root {
     --navbar-height: 110px;
     --top-container-height: 600px;
-    --clearfix-height: 600px; 
+    --clearfix-height: 600px;
+    --wrapper-padding: -50px;
 
     --background-color-navbar: white;
     --background-color-odd: #EB9628;
@@ -22,13 +23,14 @@ body {
 
 .page-content {
     padding: 0;
+    flex: 1 0 auto;
 }
 
 .wrapper {
     max-width: 100%;
     margin-right: 0;
     margin-left: 0;
-    padding: 3rem 0 0 0;
+    padding: 50px 0 0 0;
 }
 
 .post {
@@ -93,6 +95,7 @@ body {
 .top-clearfix {
     height: var(--clearfix-height);
     width: 97%;
+    margin-top: var(--wrapper-padding);
 }
 
 .top-heading {
@@ -107,7 +110,7 @@ body {
     min-height: var(--top-container-height);
     position: fixed;
     z-index: -999999;
-    margin-top: -3rem;
+    margin-top: var(--wrapper-padding);
 }
 
 .top-container .d-flex {
