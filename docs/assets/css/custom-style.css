@@ -193,13 +193,16 @@ a:active {
     top: -120vw;
     right: -80vw;
     width: 200vw;
-    background-color: var(--background-color-even);
+    /* background-color: var(--background-color-even); */
+    background-color: white;
     border-radius: 50%;
+    /* border: 1px solid; */
 }
 
 .siteheader-menu {
     z-index: 2;
     margin-top: var(--navbar-height);
+    padding-top: 50px;
 }
 
 @keyframes siteheader-animation {
