@@ -1,14 +1,16 @@
 ---
-title: "Datadrevet: Hæ? Hvorfor? Hvordan?"
+title: "Bli mer datadrevet"
 tags: datadrevet, strategi, datastrategi
+is_article: true
 ---
+
 Å være datadrevet gir kanskje ullne assosiasjoner. Det vi mener med å være datadrevet er i bunn og grunn at man lener seg på data og smarte analyser for å ta viktige forretningsmessige avgjørelser. Data er ikke lenger et biprodukt av aktiviteten i en bedrift eller organisasjon. I en datadrevet virksomhet har den verdi og relevans i alle avgjørelser og i alle kriker og kroker på kontoret.
 
 Det handler om å sette realistiske mål, om å unngå å la magefølelsen og følelsesladde diskusjoner bestemme utfallene, og om å unngå å knytte egoet til nye idéer som dukker opp. Datadrevne bedrifter og organisasjoner fatter avgjørelsene på basis av hvordan kundene, brukerne eller medlemmene faktisk oppfører seg. De måler resultater, endrer eller forkaster idéer på løpende bånd og prøver igjen til de når målet sitt.
 
 Ifølge McKinsey Global Institute har datadrevne organisasjoner 23 ganger større sjanse for å få kunder, seks ganger større sjanse for å beholde kunder og 19 ganger større sjanse for å drive mer profitabelt enn konkurrentene. Datadrevne organisasjoner vet mer om hva som virker for sin virksomhet og for sine kunder, de har kunnskapen til å tette hullene i forretningsmodellen sin og de har kunnskapen til å kjøre de mest effektive kampanjene.
 
-<h3>Men hva trenger du egentlig for å være datadrevet?</h3>
+### Men hva trenger du egentlig for å være datadrevet?
 
 Data alene er ikke løsningen, uansett hvor godt visualisert du får servert dataene i et fancy dashbord fra Datapunkt. Vi vil samarbeide med deg for å finne data som skaper verdi. Du trenger også en praksis som sørger for at dataen havner på rette steder i selskapet og brukes effektivt.
 
@@ -20,8 +22,8 @@ Før Datapunkt begynner å samle data fra dine systemer og eksterne systemer, vi
 
 I større bedrifter sørger den nevnte “head of data” for et eget strategidokument for hvordan datainnsikten skal bidra til å nå målene. Kanskje trenger du ikke enda et strategidokument som støver ned et sted i skyen, men det er likevel viktig å ha en oversikt over hvilke konkurransefortrinn dataene faktisk kan gi deg. Vi tilbyr en kartlegging av mulighetene som ligger i dataene dine, slik at du får et godt grunnlag for å avgjøre hva du vil at vi skal levere og hvordan du skal utforme strategien din.
 
-<h3>Hvor skal man starte?</h3>
+### Hvor skal man starte?
 
 Har du ikke et enkelt datadashbord fra før, som visualiserer data et eller flere systemer i virksomheten din, kan det ofte være et godt sted å starte. Dashbordet kan utvides etterpå, og har nytteverdi uansett hvordan du velger utforme strategiene eller hvem du velger å ansette. I forbindelse med dashbordet begynner vi også med en kartlegging av datagrunnlaget, slik at du får et godt grunnlag for veien videre.
 
-<a href="/2021/03/28/et-dashbord-gir-deg-full-oversikt.html">Les mer om våre dashbord</a>
+[Les mer om våre dashbord](/2021/03/28/et-dashbord-gir-deg-full-oversikt.html)

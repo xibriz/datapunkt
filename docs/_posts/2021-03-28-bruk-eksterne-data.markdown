@@ -1,1 +1,5 @@
-Skriv tekst i markdown her
+---
+title: "Bruk eksterne data"
+tags:
+is_article: true
+---

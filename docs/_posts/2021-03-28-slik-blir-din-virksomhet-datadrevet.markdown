@@ -1,6 +1,7 @@
 ---
 title: "Datadrevet: Hæ? Hvorfor? Hvordan?"
 tags: datadrevet, strategi, datastrategi
+is_article: true
 ---
 Å være datadrevet gir kanskje ullne assosiasjoner. Det vi mener med å være datadrevet er i bunn og grunn at man lener seg på data og smarte analyser for å ta viktige forretningsmessige avgjørelser. Data er ikke lenger et biprodukt av aktiviteten i en bedrift eller organisasjon. I en datadrevet virksomhet har den verdi og relevans i alle avgjørelser og i alle kriker og kroker på kontoret.
 

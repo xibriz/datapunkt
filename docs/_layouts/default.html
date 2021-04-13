@@ -9,6 +9,17 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {% if page.title %}
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Hjem</a></li>
+            {% if page.is_article %}
+            <li class="breadcrumb-item"><a href="/artikler.html">Artikler</a></li>
+            {% endif %}
+            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+          </ol>
+        </nav>
+        {% endif %}
         {{ content }}
       </div>
     </main>
